@@ -1,0 +1,1 @@
+I have implimented code to find out Dynamic Time Warpping (DTW) distance between two utterances with type 2 and 3 contrain as given in book "Fundamentals of Speech Recognition" by Rabiner.
