@@ -1,1 +1,1 @@
-Here is implementation of word level HMM in discrete and continous form. I have implemented code for forward, backward and viterbi algorithm.
+It is implementation of word level HMM in discrete and continous form. Here each word is represented by 4 emitting state HMM. I have implemented code for forward, backward and viterbi algorithms. I am getting accuracy of 90% for discrete HMM and 100% accuracy for continous HMM on given data.
