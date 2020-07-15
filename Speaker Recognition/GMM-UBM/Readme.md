@@ -1,0 +1,1 @@
+I have built code for text independent speaker verification using fundamental approach of GMM-UBM.
